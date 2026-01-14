@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flowbizz-15245bb8.zappy5.app/sitemap.xml

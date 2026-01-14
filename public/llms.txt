@@ -1,0 +1,57 @@
+# FlowBizz — Generative Engine Optimization Map
+
+> A טכנולוגיה ויזמות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://flowbizz-15245bb8.zappy5.app
+FlowBizz - פלטפורמה דיגיטלית להקמת עסק בישראל. כלים דיגיטליים ליזמים ועצמאים, הדרכה מקצועית והתחלה מהירה.
+
+### השירותים שלנו
+https://flowbizz-15245bb8.zappy5.app/services
+גלה את מגוון השירותים של FlowBizz - כלים דיגיטליים ליזמים ועצמאים, הדרכות, ליווי אישי ופתרונות טכנולוגיים מתקדמים.
+
+### אודות
+https://flowbizz-15245bb8.zappy5.app/about
+הכירו את FlowBizz - הפלטפורמה שמשנה את הדרך שבה יזמים ועצמאים בישראל מקימים עסקים. המשימה, החזון, והערכים שלנו.
+
+### צור קשר
+https://flowbizz-15245bb8.zappy5.app/contact
+יש לך שאלות על FlowBizz? רוצה להתחיל את המסע היזמי שלך? צור קשר איתנו ונעזור לך להקים עסק בישראל בהצלחה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://flowbizz-15245bb8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://flowbizz-15245bb8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://flowbizz-15245bb8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FlowBizz
+FlowBizz is a business in the טכנולוגיה ויזמות industry.
+
+## Target Audience
+יזמים ועצמאים בישראל שרוצים להקים עסק
+
+## Industry
+טכנולוגיה ויזמות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://flowbizz-15245bb8.zappy5.app/sitemap.xml
+- **Robots.txt**: https://flowbizz-15245bb8.zappy5.app/robots.txt
